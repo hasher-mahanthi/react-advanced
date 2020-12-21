@@ -1,0 +1,56 @@
+.cars {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin-left: 3rem;
+  margin-right: 2rem;
+  margin-top: 2rem;
+}
+.car {
+  width: 22rem;
+  height: 29rem;
+  background: #ffffff;
+  border: 1px solid #ff7bac;
+  box-shadow: 11px 12px 4px rgba(255, 123, 172, 0.46);
+  margin-right: 2rem;
+  margin-bottom: 2rem;
+}
+.car-image {
+  width: 15rem;
+  height: 15rem;
+}
+.car-name {
+  display: flex;
+  justify-content: center;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 1rem;
+  line-height: 1.2rem;
+  color: black;
+}
+.effeciency-measure,
+.effeciency-name {
+  font-family: Roboto;
+  display: flex;
+  justify-content: flex-start;
+  margin-left: 0.9rem;
+  font-size: 1rem;
+  line-height: 1.2rem;
+  color: black;
+}
+.effeciency {
+  margin-top: 2rem;
+}
+.explore {
+  width: 16rem;
+  height: 3rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #e5e5e5;
+  border: 3px solid #000000;
+  box-sizing: border-box;
+  margin-left: 2.2rem;
+  margin-top: 3rem;
+}

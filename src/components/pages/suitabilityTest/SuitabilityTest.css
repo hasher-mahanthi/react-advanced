@@ -1,0 +1,36 @@
+p {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 1.5rem;
+  line-height: 2rem;
+  color: #000000;
+  margin-left: 9rem;
+}
+
+.p1,
+.p2,
+.p3,
+.p5 {
+  margin-top: 2rem;
+}
+
+.p4 {
+  margin-top: 3rem;
+}
+.start-test {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 16rem;
+  margin-top: 9rem;
+}
+.start-test-btn {
+  background: #ff7bac;
+  color: white;
+  font-weight: 400;
+  width: 10rem;
+  height: 3rem;
+}
+.suit {
+  margin-left: 10rem;
+}

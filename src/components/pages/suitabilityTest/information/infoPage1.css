@@ -1,0 +1,65 @@
+.options {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.option1,
+.option2,
+.option3 {
+  width: 53rem;
+  height: 3rem;
+  left: 236px;
+  top: 346px;
+  background: #ffffff;
+  border: 1px solid #ff7bac;
+  box-sizing: border-box;
+  margin-top: 2rem;
+  font-family: Roboto;
+  display: flex;
+  align-items: center;
+}
+
+.q-1,
+.q-2 {
+  font-family: Roboto;
+  font-size: 1.5rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 2rem;
+  letter-spacing: 0em;
+  text-align: left;
+  color: black;
+  margin-left: 13.4rem;
+}
+
+.q-1 {
+  margin-top: 3rem;
+}
+.back-next {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 13rem;
+  margin-right: 5rem;
+  margin-top: 4rem;
+}
+.next-btn {
+  width: 10rem;
+  height: 3rem;
+  background-color: #ff7bac;
+  background: rgba(239, 237, 220, 0.25);
+  border: 1px solid #000000;
+  box-sizing: border-box;
+}
+.back-btn {
+  width: 10rem;
+  height: 3rem;
+  background: rgba(239, 237, 220, 0.25);
+  border: 1px solid #000000;
+  box-sizing: border-box;
+}
+.next {
+  background-color: #ff7bac;
+}
+.p-1 {
+  margin-top: 1rem;
+}

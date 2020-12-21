@@ -1,0 +1,97 @@
+.features {
+  display: flex;
+  justify-content: space-between;
+  color: #ff7bac;
+  background: black;
+  font-size: 2rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 2rem;
+  margin-top: 1rem;
+  text-align: left;
+  padding: 1rem;
+}
+.car-details {
+  margin-left: 2rem;
+  margin-top: 3rem;
+  margin-right: 2rem;
+  margin-bottom: 1rem;
+  color: black;
+  font-family: Roboto;
+}
+.range-charging {
+  display: flex;
+  justify-content: space-between;
+}
+
+.range-charging {
+  margin-top: 1rem;
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+.image-date {
+  display: flex;
+  justify-content: space-between;
+}
+.car-img {
+  width: 43rem;
+  height: 20rem;
+}
+.available-date {
+  line-height: 2rem;
+}
+.available-date-label {
+  color: #9b9b99;
+}
+.available-date-value {
+  color: black;
+}
+.car-name-1 {
+  font-size: 1.5rem;
+  line-height: 2rem;
+}
+.selling-info {
+  background: #ffffff;
+  border: 1px solid #ff7bac;
+  box-sizing: border-box;
+  box-shadow: 11px 12px 4px rgba(255, 123, 172, 0.25);
+}
+.available-date-value {
+  font-weight: 700;
+}
+.btn {
+  width: 6rem;
+  color: white;
+  margin-right: 1.5rem;
+  background: #ff7bac;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.subscription {
+  font-size: 1rem;
+  font-weight: bold;
+  margin-top: 3rem;
+}
+.miles-per-month,
+.delivery-date {
+  font-size: 1rem;
+  font-weight: bold;
+  margin-top: 1.5rem;
+}
+.date-picker {
+  border-color: white;
+  width: 15rem;
+  background: #ffffff;
+  box-shadow: 6px 4px 4px rgba(255, 123, 172, 0.66);
+}
+.book-now {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  background: #ff7bac;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  margin-top: 3rem;
+  width: 20rem;
+  height: 3rem;
+  margin-left: 1rem;
+}
